@@ -1,0 +1,10 @@
+E:\repos\SortTests\SortTests\bin\Debug\SortTests.exe.config
+E:\repos\SortTests\SortTests\bin\Debug\SortTests.exe
+E:\repos\SortTests\SortTests\bin\Debug\SortTests.pdb
+E:\repos\SortTests\SortTests\obj\Debug\SortTests.csprojAssemblyReference.cache
+E:\repos\SortTests\SortTests\obj\Debug\SortTests.Form1.resources
+E:\repos\SortTests\SortTests\obj\Debug\SortTests.Properties.Resources.resources
+E:\repos\SortTests\SortTests\obj\Debug\SortTests.csproj.GenerateResource.cache
+E:\repos\SortTests\SortTests\obj\Debug\SortTests.csproj.CoreCompileInputs.cache
+E:\repos\SortTests\SortTests\obj\Debug\SortTests.exe
+E:\repos\SortTests\SortTests\obj\Debug\SortTests.pdb
